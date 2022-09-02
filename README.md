@@ -1,8 +1,8 @@
 # Hi there 😶
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DargonXuan&include_all_commits=true&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DargonXuan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DargonXuan&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DargonXuan&layout=compact" />
 </div>
 
 ----
