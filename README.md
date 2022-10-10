@@ -1,4 +1,4 @@
-<a href="https://github.com/DargonXuan">
+<!-- <a href="https://github.com/DargonXuan">
   <table>
     <tr>
       <td>
@@ -10,4 +10,5 @@
     </tr>
   </table>
 </a>
-
+ -->
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
