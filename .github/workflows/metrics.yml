@@ -22,10 +22,10 @@ jobs:
           config_timezone: Asia/Hong_Kong
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: public
+          plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
