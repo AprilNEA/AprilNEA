@@ -13,16 +13,3 @@
 * ⏰ 13:00 - 4:30 「[UTC+8](https://time.is/UTC+8)」
 * 🔗 Blog: [blog.sku.moe](https://blog.sku.moe)
 
-<a href="https://github.com/AprilNEA">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AprilNEA&include_all_commits=true&show_icons=true&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilNEA&layout=compact&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</a>
-
