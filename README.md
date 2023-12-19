@@ -12,6 +12,19 @@
 <a href="https://t.me/AprilNEA"><img src="https://img.shields.io/badge/-telegram-blue?&style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AprilNEA&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AprilNEA&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AprilNEA&show_icons=true" align=right />
+</picture>
+
+
 * 🌐 中文 · English
 * ⏰ 7:00 - 23:30 「[UTC+8](https://time.is/UTC+8)」
 * 🏡 Index: [sku.moe](https://sku.moe)
