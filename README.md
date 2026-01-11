@@ -21,5 +21,30 @@
     srcset="https://aprillabs.github.io/april-readme-profile-card/light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://aprillabs.github.io/april-readme-profile-card/light.svg" align="left" />
+  <img src="https://aprillabs.github.io/april-readme-profile-card/light.svg" align="right" />
 </picture>
+
+**I am a...**
+
+- Co-Founder of [CoreSpeed Inc.](https://github.com/corespeed-io)
+- Founder of [ArcBox](https://github.com/arcbox-labs/arcbox) 
+- Creator of [better-auth-rs](https://github.com/better-auth-rs/better-auth-rs)
+- Active contributor at [rust-lang](https://github.com/rust-lang/rust), [tauri](http://github.com/tauri-apps/tauri), and many more!
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) develop team member
+
+<br>
+
+**Where to find me**
+
+[Portfolio](https://aprilnea.me) ·
+[Blog](https://aprilnea.me/blog) ·
+[Twitter](https://twitter.com/AprilNEA) ·
+[Telegram Channel](https://t.me/s/AprilNEALab) ·
+[E-Mail](mailto:dev_at_aprilnea_dot_me)
+
+**My GitHub Activities**
+
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Aaprilnea+-user%3Aaprilnea) ·
+[Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Aaprilnea+is%3Amerged+) ·
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Aaprilnea+-user%3Aaprilnea) ·
+[All Involvements](https://github.com/pulls?q=involves%3Aaprilnea+-user%3Aaprilnea)
