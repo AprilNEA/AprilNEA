@@ -26,8 +26,8 @@
 
 **I am a...**
 
-- Co-Founder of [CoreSpeed Inc.](https://github.com/corespeed-io)
-- Founder of [ArcBox](https://github.com/arcbox-labs/arcbox) 
+- Founder of [ArcBox](https://github.com/arcbox-labs/arcbox), building better infrastructure
+- Ex-Co-Founder of [CoreSpeed Inc.](https://github.com/corespeed-io)
 - Creator of [better-auth-rs](https://github.com/better-auth-rs/better-auth-rs)
 - Active contributor at [rust-lang](https://github.com/rust-lang/rust), [tauri](http://github.com/tauri-apps/tauri), and many more!
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) develop team member
